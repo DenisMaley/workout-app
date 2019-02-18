@@ -1,0 +1,17 @@
+{
+  "name": "workout-app",
+  "version": "1.0.0",
+  "description": "UI for CRUD workout plans",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DenisMaley/workout-app"
+  },
+  "author": "Denis Maley",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "bootbox": "^4.4.0",
+    "sortablejs": "^1.5.0-rc1"
+  }
+}
